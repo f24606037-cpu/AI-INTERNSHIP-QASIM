@@ -1,0 +1,7 @@
+# Project Walkthrough
+
+1. Prepared the project environment.
+2. Worked with concrete images.
+3. Used deep learning for crack detection.
+4. Organized the project files.
+5. Prepared the project for presentation.

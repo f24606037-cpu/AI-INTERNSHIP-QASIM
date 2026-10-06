@@ -1,0 +1,12 @@
+# Project Summary
+
+Project: Concrete Crack Detection
+
+I worked on a computer vision project
+to detect cracks in concrete images.
+
+Tools used:
+- Python
+- Google Colab
+- Deep Learning
+- Computer Vision

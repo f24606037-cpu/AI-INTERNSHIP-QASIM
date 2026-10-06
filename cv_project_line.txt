@@ -1,0 +1,1 @@
+Built a concrete crack detection project using Python, Deep Learning, and Computer Vision.
