@@ -1,7 +1,31 @@
+
 # Project Walkthrough
 
-1. Prepared the project environment.
-2. Worked with concrete images.
-3. Used deep learning for crack detection.
-4. Organized the project files.
-5. Prepared the project for presentation.
+## 1. Project Environment
+Prepared the Google Colab environment and checked GPU availability using an NVIDIA Tesla T4.
+
+## 2. Dataset Preparation
+Worked with a concrete crack dataset containing 40,000 images:
+- 28,000 training images
+- 6,000 validation images
+- 6,000 testing images
+
+## 3. Model Development
+Developed a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify concrete images into two categories:
+- Positive: Concrete with cracks
+- Negative: Concrete without cracks
+
+## 4. Model Training
+Trained the CNN model for 3 epochs using the Adam optimizer and Binary Crossentropy loss function.
+
+## 5. Model Evaluation
+Evaluated the trained model using a separate test dataset. Generated a confusion matrix, classification report, and sample predictions.
+
+## 6. Model Saving
+Saved the trained model in `.keras` format to Google Drive.
+
+## 7. Project Organization
+Uploaded the project notebook and six sample images to a separate GitHub repository.
+
+## 8. Project Documentation
+Prepared a README file describing the project, dataset, tools, model approach, and limitations.
