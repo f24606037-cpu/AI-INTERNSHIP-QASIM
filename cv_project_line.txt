@@ -1,1 +1,4 @@
-Built a concrete crack detection project using Python, Deep Learning, and Computer Vision.
+**Concrete Crack Detection Project**
+- Developed a CNN-based concrete crack detection model using Python, TensorFlow, and Keras.
+- Prepared and split a dataset of 40,000 concrete images into training, validation, and testing sets.
+- Trained and evaluated the model using Google Colab with an NVIDIA T4 GPU, including confusion matrix and classification report analysis.
