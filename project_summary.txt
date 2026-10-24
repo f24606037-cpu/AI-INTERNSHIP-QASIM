@@ -1,12 +1,33 @@
 # Project Summary
 
-Project: Concrete Crack Detection
+## Project: Concrete Crack Detection Using CNN
 
-I worked on a computer vision project
-to detect cracks in concrete images.
+### Overview
+I developed a concrete crack detection project using a Convolutional Neural Network (CNN) to classify concrete images into two categories: cracked (Positive) and non-cracked (Negative).
 
-Tools used:
+### Dataset
+- Total Images: 40,000
+- Training Images: 28,000
+- Validation Images: 6,000
+- Testing Images: 6,000
+- Image Size: 128 × 128 pixels
+
+### Tools and Technologies
 - Python
 - Google Colab
+- TensorFlow and Keras
 - Deep Learning
 - Computer Vision
+- NVIDIA Tesla T4 GPU
+
+### Model Development
+I developed a CNN model and trained it for 3 epochs using the Adam optimizer and Binary Crossentropy loss function.
+
+### Model Evaluation
+The model was evaluated using a separate testing dataset. Evaluation included test accuracy, a confusion matrix, a classification report, and sample predictions.
+
+### Project Outcome
+This project provided practical experience in image classification, dataset preparation, CNN model development, GPU-based training, and model evaluation.
+
+### Limitations
+The model requires further testing on real-world construction sites and different concrete surface conditions.
